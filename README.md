@@ -6,9 +6,15 @@ Hi there, I have a Master’s degree in Information Technology. I’m also a cer
 
 I'm always looking to work with people interested in creating and working on creative and meaningful projects. Email me if you also have the same area of interest, I would like to connect to develop new projects.
 ## 🧰 Languages, Framework and Tools:
+ - OpenAI: ChatGPT API
+ - Python
+ - HTML
+ - JavaScript
+ - Flask
  - Swift
  - SwiftUI
  - Xcode
+
 <!--
 **dishvanani13/dishvanani13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
