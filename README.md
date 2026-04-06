@@ -6,7 +6,7 @@ Hi there, I have a Master’s degree in Information Technology. I’m also a cer
 
 I'm always looking to work with people interested in creating and working on creative and meaningful projects. Email me if you also have the same area of interest, I would like to connect to develop new projects.
 ## 🧰 Languages, Framework and Tools:
- - OpenAI: ChatGPT API
+ - OpenAI API
  - Python
  - HTML
  - JavaScript
